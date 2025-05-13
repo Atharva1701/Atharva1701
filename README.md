@@ -48,7 +48,7 @@
     </a>
   </p>
 </div>
----
+
 
 ## 🚀 About Me
 - 📍 Dallas, TX  
@@ -57,7 +57,9 @@
 - 🔧 Passionate about microservices, CI/CD pipelines, and automated testing  
 - 🤖 Exploring ML & GANs for image processing and data augmentation  
 
----
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 ## 🛠️ Skills
 
@@ -81,7 +83,7 @@
 <img src="https://skillicons.dev/icons?i=androidstudio,git,maven,postman,gradle" height="40"/>
 
 
----
+<div>&nbsp;</div>
 
 ## 📊 GitHub Stats
 
@@ -102,7 +104,7 @@
 </div>
 
 
----
+
 <!-- ## 🧩 LeetCode Stats
 
 <div align="center">
@@ -112,18 +114,21 @@
     alt="LeetCode Stats" 
     width="700px"/>
 </div> -->
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 ## 📁 Featured Projects
 
 ### 1. GamePlan – Sports Events Management App  
-**Tech:** Java • Android SDK • Firebase • Firestore
+> **Tech:** Java • Android SDK • Firebase • Firestore
 - Real-time scheduling via Firestore transactions to eliminate double bookings  
 - Secure authentication flows for booking, rescheduling, and cancellations  
 - Conflict-free slot-validation logic to improve reliability  
 **Repo:** [Code Repository](https://github.com/Atharva1701/GamePlan---Sports-Event-Management-App)
 
 
----
+<div>&nbsp;</div>
 
 ### 2. Astronomical Image Augmentation using GANs  
 > **Tech:** Python • PyTorch • OpenCV • TensorFlow • Matplotlib  
@@ -132,7 +137,7 @@
 - Publication: *Astronomical Image Colorization and upscaling with GANs*, LNI 2022  
 > **Paper:** [Read the Paper Here!](https://dl.gi.de/handle/20.500.12116/39540)  
 
----
+<div>&nbsp;</div>
 
 ### 3. Rotaract NYF Club Website  
 > **Tech:** React.js • PostgreSQL • Bootstrap • JavaScript  
@@ -140,7 +145,8 @@
 - Responsive design & cross-browser testing ensured mobile/desktop consistency  
 > **Repo:** [Code Repository](https://github.com/Atharva1701/Rotaract-NYF-Website)  
 
----
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 ## 🎓 Education
 
@@ -149,12 +155,15 @@
 | M.S. in Computer Science                    | University of Texas at Arlington               | May 2025    |
 | B.E. in Computer Engineering                | Savitribai Phule Pune University               | April 2021  |
 
----
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 ## 📚 Publications
 
 - **Astronomical Image Colorization and upscaling with GANs**, Shreyas Kalvankar et al., LNI (Gesellschaft für Informatik), Bonn, Sept 2022
----
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 ## 🤝 Let’s Connect
 

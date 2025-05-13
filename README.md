@@ -116,7 +116,7 @@
 ## 📁 Featured Projects
 
 ### 1. GamePlan – Sports Events Management App  
-**Tech:** Java • Android SDK • Firebase • Firestore • Material UI  
+**Tech:** Java • Android SDK • Firebase • Firestore
 - Real-time scheduling via Firestore transactions to eliminate double bookings  
 - Secure authentication flows for booking, rescheduling, and cancellations  
 - Conflict-free slot-validation logic to improve reliability  
@@ -126,7 +126,7 @@
 ---
 
 ### 2. Astronomical Image Augmentation using GANs  
-> **Tech:** Python, PyTorch, OpenCV, TensorFlow, Matplotlib  
+> **Tech:** Python • PyTorch • OpenCV • TensorFlow • Matplotlib  
 - Developed GAN to colorize & upscale astronomical images with 92% structural fidelity  
 - Used L1/L2 loss in RGB & Lab color spaces for realism  
 - Publication: *Astronomical Image Colorization and upscaling with GANs*, LNI 2022  
@@ -135,7 +135,7 @@
 ---
 
 ### 3. Rotaract NYF Club Website  
-> **Tech:** React.js, PostgreSQL, Bootstrap, JavaScript  
+> **Tech:** React.js • PostgreSQL • Bootstrap • JavaScript  
 - Event registration & member auth platform for 200+ users  
 - Responsive design & cross-browser testing ensured mobile/desktop consistency  
 > **Repo:** [Code Repository](https://github.com/Atharva1701/Rotaract-NYF-Website)  

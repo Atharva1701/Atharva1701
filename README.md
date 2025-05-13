@@ -48,17 +48,6 @@
     </a>
   </p>
 </div>
-
----
-## 📑 Table of Contents
-- [About Me](#-about-me)
-- [Skills](#-skills)
-- [Projects](#-projects)
-- [LeetCode Stats](#-leetcode-stats)
-- [GitHub Snapshot](#-github-snapshot)
-- [Certifications](#-certifications)
-- [Contact](#-contact)
-
 ---
 
 ## 🚀 About Me
@@ -131,7 +120,7 @@
 - Real-time scheduling via Firestore transactions to eliminate double bookings  
 - Secure authentication flows for booking, rescheduling, and cancellations  
 - Conflict-free slot-validation logic to improve reliability  
-**Repo:** [github.com/Atharva1701/GamePlan---Sports-Event-Management-App](https://github.com/Atharva1701/GamePlan---Sports-Event-Management-App)
+**Repo:** [Code Repository](https://github.com/Atharva1701/GamePlan---Sports-Event-Management-App)
 
 
 ---
@@ -141,7 +130,7 @@
 - Developed GAN to colorize & upscale astronomical images with 92% structural fidelity  
 - Used L1/L2 loss in RGB & Lab color spaces for realism  
 - Publication: *Astronomical Image Colorization and upscaling with GANs*, LNI 2022  
-> **Paper:** [dl.gi.de/handle/20.500.12116/39540](https://dl.gi.de/handle/20.500.12116/39540)  
+> **Paper:** [Read the Paper Here!](https://dl.gi.de/handle/20.500.12116/39540)  
 
 ---
 
@@ -149,7 +138,7 @@
 > **Tech:** React.js, PostgreSQL, Bootstrap, JavaScript  
 - Event registration & member auth platform for 200+ users  
 - Responsive design & cross-browser testing ensured mobile/desktop consistency  
-> **Repo:** [github.com/Atharva1701/Rotaract-NYF-Website](https://github.com/Atharva1701/Rotaract-NYF-Website)  
+> **Repo:** [Code Repository](https://github.com/Atharva1701/Rotaract-NYF-Website)  
 
 ---
 

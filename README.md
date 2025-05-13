@@ -125,7 +125,7 @@
 - Real-time scheduling via Firestore transactions to eliminate double bookings  
 - Secure authentication flows for booking, rescheduling, and cancellations  
 - Conflict-free slot-validation logic to improve reliability  
-**Repo:** [Code Repository](https://github.com/Atharva1701/GamePlan---Sports-Event-Management-App)
+> **Repo:** [Code Repository](https://github.com/Atharva1701/GamePlan---Sports-Event-Management-App)
 
 
 <div>&nbsp;</div>
